@@ -4,7 +4,7 @@ This is Vite template without installing node.js in local.
 
 ## Environment
 
-- Node.js ... 16.0.0
+- Node.js ... 16.3.0
 - [Vite](https://vitejs.dev/) ... 2.2.3
 
 ## How to run local development
